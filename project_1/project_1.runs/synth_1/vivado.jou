@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 17 15:44:31 2025
+# Process ID: 15804
+# Current directory: D:/led_prj/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log led_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_top.tcl
+# Log file: D:/led_prj/project_1/project_1.runs/synth_1/led_top.vds
+# Journal file: D:/led_prj/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source led_top.tcl -notrace
